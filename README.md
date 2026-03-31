@@ -21,15 +21,15 @@ The project has two main parts:
    - Command-line usage:
 
 **Files**
-my_model.h5 - The trained Keras model 
+- my_model.h5 - The trained Keras model 
 
-predict.py - Command line script to make predictions 
+- predict.py - Command line script to make predictions 
 
-label_map.json - Mapping from class indices to flower names
+- label_map.json - Mapping from class indices to flower names
 
-test_images/ - Example images for testing
+- test_images/ - Example images for testing
 
-Image_Classifier_Part1.ipynb - Jupyter notebook 
+- Image_Classifier_Part1.ipynb - Jupyter notebook 
 
 **Installation**
 
